@@ -1,0 +1,21 @@
+{
+  "name": "ec-europa/git",
+  "description": "Php library for interacting with git binary",
+  "type": "library",
+  "keywords": ["git","helper","php"],
+  "license": "EUPL",
+  "homepage": "https://github.com/ec-europa/phpgit",
+  "authors": [
+    {
+      "name": "Gregory Boddin",
+      "email": "gregory.boddin@ext.ec.europa.eu",
+      "homepage": "https://github.com/gboddin"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"PhpGit\\": "src/"}
+  },
+  "require": {
+    "php" : ">=5.3.0"
+  }
+}
