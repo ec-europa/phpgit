@@ -1,5 +1,5 @@
 {
-  "name": "ec-europa/git",
+  "name": "ec-europa/phpgit",
   "description": "Php library for interacting with git binary",
   "type": "library",
   "keywords": ["git","helper","php"],
