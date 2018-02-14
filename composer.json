@@ -3,7 +3,7 @@
   "description": "Php library for interacting with git binary",
   "type": "library",
   "keywords": ["git","helper","php"],
-  "license": "EUPL",
+  "license": "EUPL-1.1",
   "homepage": "https://github.com/ec-europa/phpgit",
   "authors": [
     {
